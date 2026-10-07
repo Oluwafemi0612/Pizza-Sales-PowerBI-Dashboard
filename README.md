@@ -36,10 +36,12 @@ This view focuses on time-based trends and structural distributions of sales acr
 ### 📸 Dashboard Visuals
 
 #### Page 1: Operational Trends & Sales Performance (Home)
-![Dashboard Page 1](images/home_page.png)
+<img width="1484" height="806" alt="Screenshot 2026-10-06 204555" src="https://github.com/user-attachments/assets/8e57f489-fa29-4e8a-91d8-cd17c769a609" />
+
 
 #### Page 2: Product Performance Breakdown (Best/Worst Sellers)
-![Dashboard Page 2](images/performance_page.png)
+<img width="1479" height="811" alt="Screenshot 2026-10-06 204853" src="https://github.com/user-attachments/assets/e6edbcb9-264e-44f7-a9d3-3d4fe4137741" />
+
 
 
 ### 🏆 Page 2: Product Performance Breakdown (Best/Worst Sellers)
@@ -64,5 +66,4 @@ This view provides a highly granular look at product rankings across Revenue, Qu
 
 ## 📂 Repository Structure
 * `Pizza_PowerBI_project.pbix` — Core Power BI binary file housing data models and dashboard visuals.
-* `/images` — Contains screenshots of the dashboard pages for visual portfolio mapping.
 * `pizza_sales.csv` — Raw sales dataset used for modeling and transparency.
